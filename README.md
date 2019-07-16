@@ -63,3 +63,6 @@ python run.py
 ![](images/paraphrase.gif)
 
 
+## License
+
+MIT licensed. See the [LICENSE file](./LICENSE) for full details.
