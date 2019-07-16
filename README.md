@@ -23,15 +23,12 @@ conda activate paraphrase_detection
 
 Download pre-trained word embeddings:
 
-```
 [GoogleNews-vectors-negative300](https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit) (1.5GB)
-```
 
 or 
 
-```
 [GoogleNews-vectors-negative300-SLIM](https://github.com/eyaler/word2vec-slim) (264 MB)
-```
+
 
 Create a folder *embeddings* under the root of this repository, put the embddings file (.bin.gz) into it
 
